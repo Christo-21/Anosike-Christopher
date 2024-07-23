@@ -1,0 +1,28 @@
+.nav1{
+    height: 90px;
+    background-color: black;
+
+}
+.what_float{
+    transition: transform 0.3s;
+}
+.what_float:hover{
+    transform: scale(1.1);
+    background-color: rgba(41, 40, 40, 0.295);
+}
+
+.face_float{
+    transition: transform 0.3s;
+}
+.face_float:hover{
+    transform: scale(1.1);
+    background-color: rgba(41, 40, 40, 0.295);
+}
+
+.insta_float{
+    transition: transform 0.3s;
+}
+.insta_float:hover{
+    transform: scale(1.1);
+    background-color: rgba(41, 40, 40, 0.295);
+}

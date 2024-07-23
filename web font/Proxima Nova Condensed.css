@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Proxima Nova Condensed';
+    src: url('fonts/Mark-Simonson--Proxima-Nova-Condensed-Black-TheFontsMastercom.eot');
+    src: url('fonts/Mark-Simonson--Proxima-Nova-Condensed-Black-TheFontsMastercom.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mark-Simonson--Proxima-Nova-Condensed-Black-TheFontsMastercom.woff2') format('woff2'),
+         url('fonts/Mark-Simonson--Proxima-Nova-Condensed-Black-TheFontsMastercom.woff') format('woff'),
+         url('fonts/Mark-Simonson--Proxima-Nova-Condensed-Black-TheFontsMastercom.ttf')  format('truetype'),
+         url('fonts/Mark-Simonson--Proxima-Nova-Condensed-Black-TheFontsMastercom.svg#Proxima Nova Condensed') format('svg');
+}

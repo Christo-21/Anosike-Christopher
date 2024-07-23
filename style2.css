@@ -1,0 +1,38 @@
+.nav1{
+    background-color: black;
+    height: 90px;
+}
+
+#My .Skills{
+    font-size: 20px;
+}
+
+.x-box{
+    width: 40vh;
+    height: 40vh;
+    border-radius: 50%;
+    background-color: green;
+    background: repeating-conic-gradient(
+        from 0deg,
+        #ff264a 0deg 80deg,
+        #feec1e 80deg 160deg,
+          purple 160deg 240deg,
+        green 240deg 300deg,
+        #12cbc4 300deg 360deg
+       
+    );
+
+}
+.x-box-cont{
+    font-size: 10px;
+   
+    
+}
+.x-box-cont{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.x-box-cont strong{
+    display: block;
+    margin-bottom: 15px;
+}
